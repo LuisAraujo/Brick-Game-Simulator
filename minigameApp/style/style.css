@@ -1,0 +1,19 @@
+#canvas{
+  position: relative;
+}
+
+#minigame{
+    background-image: url(../img/capa.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+}
+
+
+#conteiner{
+    position: relative;
+    width: 100%;
+}
