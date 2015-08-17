@@ -9,7 +9,7 @@ Minigame_Tetris
 
 > Size
 
-*O atributo size da div de id "minigame" define o tamanho do minigame, são aceitos valores: small, medium e big;
+* O atributo size da div de id "minigame" define o tamanho do minigame, são aceitos valores: small, medium e big;
 
 ### Exemplo
 
