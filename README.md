@@ -1,6 +1,19 @@
 Minigame_Tetris
 ===============
+[Eng]
+### Description
 
+> Web application that simulates the old minigames, using HTML5.
+Documentation
+
+> Size
+The size attribute of the id div "minigame" defines the size of the minigame, values are accepted: small, medium and big;
+### Example
+
+> The examples folder contains an example of using the application with the game tetris.
+Images
+
+[pt-Br]
 ### Descrição
 
 > Aplicação web que simula os antigos minigames, utilizando HTML5.
