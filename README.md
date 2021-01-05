@@ -1,4 +1,4 @@
-Minigame_Tetris
+Brick Game Simulator / Simulador de Mini Game
 ===============
 [Eng]
 ### Description
